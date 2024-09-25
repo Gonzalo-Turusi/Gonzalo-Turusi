@@ -1,99 +1,44 @@
-# 👨‍💻 Welcome to My GitHub Profile!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gonzalo-turusi.gonzalo-turusi" />
 
-Hello! I'm a passionate Full Stack Developer with a keen interest in web development and game development. My experience spans across various technologies including C#, SQL, Angular, Python, and TypeScript. I'm also deeply interested in software architecture, best practices, and design patterns to build high-quality applications.
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=25&duration=5250&pause=1000&color=81F71D&center=true&vCenter=true&width=500&height=70&lines=Hi%F0%9F%98%81!+I'm+Gonzalo%2C+how's+it+going%3F;Feel+free+to+visit+my+repositories+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+</div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- **Name**: Gonzalo Turusi
-- **Role**: Full Stack Developer
-- **Interests**: Web Development, Game Development, Software Architecture, Design Patterns
-- **Technologies**: C#, SQL, Angular, Python, TypeScript
+I'm a passionate software developer who has participated in multiple projects, often recognized for my dynamic approach and strong organizational skills. I take great care in ensuring that my projects are well-structured and maintainable. With a deep interest in software architecture, I'm continuously refining my practices and moving towards becoming a software architect.
 
-## 🛠️ My Projects
-
-### Angular-Certification
-
-A project that includes a web application called **conFusion** developed with Angular.
-
-- **Technologies**: Angular, TypeScript
-- **Repository**: [Angular-Certification](Angular-Certification/)
-- **Instructions**: Check the [README](Angular-Certification/conFusion/README.md) for more details on how to run and develop this project.
-
-### Backend
-
-This project contains the business logic and data layer for a backend application.
-
-- **Technologies**: C#, .NET
-- **Repository**: [Backend](Backend/)
-- **Instructions**: Open the solution [Backend.sln](Backend/Backend.sln) in Visual Studio to explore and run the project.
-
-### Bootstrap-Certification
-
-A web application called **conFusion** developed with Bootstrap.
-
-- **Technologies**: HTML, CSS, Bootstrap
-- **Repository**: [Bootstrap-Certification](Bootstrap-Certification/)
-- **Instructions**: Open the HTML files in the [conFusion](Bootstrap-Certification/conFusion/) folder to view the web pages.
-
-### Bot Telegram
-
-A Telegram bot with various functionalities like alert management and authorization.
-
-- **Technologies**: Python
-- **Repository**: [Bot Telegram](bot%20telegram/)
-- **Instructions**: Check the [README](bot%20telegram/README.md) for more details on how to deploy and run this bot.
-
-### Clean-Code
-
-Examples and practices of Clean Code in C#.
-
-- **Technologies**: C#, .NET
-- **Repository**: [Clean-Code](Clean-Code/)
-- **Instructions**: Open the solution [CleanCode.sln](Clean-Code/CleanCode.sln) in Visual Studio to explore and run the project.
-
-### CSharp-Fundamentals
-
-Examples and exercises on the fundamentals of C#.
-
-- **Technologies**: C#
-- **Repository**: [CSharp-Fundamentals](CSharp-Fundamentals/)
-
-### Design-Patterns
-
-Examples of various design patterns implemented in different programming languages.
-
-- **Technologies**: Various programming languages
-- **Repository**: [Design-Patterns](Design-Patterns/)
-
-### First Contributions
-
-A guide to help new contributors make their first contribution on GitHub.
-
-- **Technologies**: Markdown, Git
-- **Repository**: [First Contributions](first-contributions/)
-- **Instructions**: Check the translation files in [additional-material/translations](first-contributions/additional-material/translations/) for guides in different languages.
-
-### Node-MongoDB-Certification
-
-A project developed with Node.js and MongoDB.
-
-- **Technologies**: Node.js, MongoDB
-- **Repository**: [Node-MongoDB-Certification](Node-MongoDB-Certification/)
-
-### Unit-Testing
-
-Examples and practices of unit testing in different languages and frameworks.
-
-- **Technologies**: Various languages and testing frameworks
-- **Repository**: [Unit-Testing](Unit-Testing/)
-
-## 📫 Contact Me
+- 🐱‍👤**Current role:** Senior Software engineer.
+- 👾**Interests:** Software Architecture, Web Development, Game Development, Machine Learning.
+- 🚀**Currently learning:** Architecture Patterns, Design Patterns, Python.
 
 Feel free to reach out to me if you have any questions or suggestions!
 
-- **Email**: gonzalo.turusi@gmail.com
-- **LinkedIn**: [My Linkedin!](https://www.linkedin.com/in/gonzalo-turusi/)
+<div> 
+  <a href="mailto:gonzalo.turusi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/gonzalo-turusi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<h2 align="center">⚔ Languages/Frameworks/Tools ⚔</h2>
+<div align="center">
+    <h3>Main</h3>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,sqlite,py,ts,html,css,bootstrap,vscode,visualstudio,github,gitlab,git" />
+    <h3>Secondary</h3>
+    <img src="https://skillicons.dev/icons?i=,javascript,mongodb,jenkins,azure,postman,sublime,unity,react,regex,mysql,java,flask,windows,ps" /><br>
+</div>
+<br>
+<div align=center>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gonzalo-turusi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 ---
-
 Thank you for visiting my GitHub profile! 😊
+Fell free to take a look at my contributions! ✨
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gonzalo-turusi/gonzalo-turusi/output/github-contribution-grid-snake.svg" />
+</div>
