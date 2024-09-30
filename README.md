@@ -8,7 +8,7 @@
 
 I'm a passionate software developer who has participated in multiple projects, often recognized for my dynamic approach and strong organizational skills. I take great care in ensuring that my projects are well-structured and maintainable. With a deep interest in software architecture, I'm continuously refining my practices and moving towards becoming a software architect.
 
-- 🥷**Current role:** Senior Software engineer.
+- 🐱‍👤**Current role:** Senior Software engineer.
 - 👾**Interests:** Software Architecture, Web Development, Game Development, Machine Learning.
 - 🚀**Currently learning:** Architecture Patterns, Design Patterns, Python.
 
